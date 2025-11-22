@@ -36,7 +36,9 @@ for num05 in range(1, 11):
     print(f'{productOfNum} x {num05} = {productOfNum * num05}')
 
 print('')
-# Intermediate For Loops (UNCHECKED)
+
+# ======================================================================
+# Intermediate For Loops
 # 1. Factorial Calculator
 
 factorialOfNum = int(input('Enter a number: '))
