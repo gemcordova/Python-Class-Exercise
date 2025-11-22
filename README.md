@@ -1,6 +1,7 @@
 # 🧠 Instruction
-- **for-while-loop.py** contains all the codes from exercise 1-6 are attached
-- Open the codes you want to check!
+- **for-while-loop.py** contains all the codes from exercise 1-6.
+- Open the codes you want to check.
+- You can use this as a basis. Change the codes accordingly.
 
 # ⚠️ Reminder
-- Some codes are not tested properly
+- Some of the codes are experimental. Change them according to your preference.
